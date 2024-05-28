@@ -1,6 +1,5 @@
-## Sobre Mim ## About Me
+## Sobre Mim [pt-br] 
 
-[pt-br]
 👨‍💻 Sou um **Desenvolvedor Fullstack** dedicado, com uma paixão especial por dar vida a ideias inovadoras. Minha expertise é mais acentuada no **FrontEnd**, onde eu brilho utilizando **React**, *Next.js e **Node.js** para construir aplicações robustas e de alto desempenho.
 
 ### Minhas Especialidades
@@ -9,7 +8,8 @@
 - **BackEnd**: Desenvolvendo lógica de negócios complexa e APIs eficientes com **Spring Java** e **Node.js**.
 - **Microserviços**: Especializado em arquitetura de microserviços, projetando sistemas que são ao mesmo tempo escaláveis e gerenciáveis.
 
-[en-us]
+## About Me [en-us]
+
 👨‍💻 I am a dedicated Fullstack Developer with a special passion for bringing innovative ideas to life. My expertise shines in the FrontEnd, where I excel in using React, Next.js, and Node.js to build robust, high-performance applications.
 
 ### My Specialties
