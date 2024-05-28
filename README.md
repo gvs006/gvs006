@@ -14,7 +14,7 @@
 
 ### My Specialties
 
-FrontEnd: Crafting interactive interfaces with React, Next.js, and Angular.
-BackEnd: Developing complex business logic and efficient APIs with Spring Java and Node.js.
-Microservices: Specializing in microservices architecture, designing systems that are both scalable and manageable.
+- **FrontEnd**: Crafting interactive interfaces with React, Next.js, and Angular.
+- **BackEnd**: Developing complex business logic and efficient APIs with Spring Java and Node.js.
+- **Microserviços**: Specializing in microservices architecture, designing systems that are both scalable and manageable.
 I am constantly seeking new challenges and opportunities to grow professionally and contribute to exciting projects. If you need someone who can turn technical complexity into elegant solutions, let’s connect!
